@@ -10,7 +10,7 @@
   - `pip install comtypes`
   - `pip install screen_brightness_control`  
   - Also check for any package that's need to be installed, on cmd
-  - then run the scripts `python VolumeControl.py`
+  
 
 ## Main Steps
 The essensial steps that are required to implement it.
